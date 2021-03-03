@@ -10,7 +10,7 @@ Used to simulate the Big Bang.
 <h2>Support</h2>
 For more questions about this project, feel free to contact me at a.suh.91@gmail.com.
 
-<h2>Roadmap</h2>:
+<h2>Roadmap</h2>
 Later I may update the aesthetic of this experiment to appeal more to the eye.
 
 <h2>License information</h2>
